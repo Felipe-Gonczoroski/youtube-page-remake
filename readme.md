@@ -28,7 +28,7 @@ https://felipe-gonczoroski.github.io/youtube-page-remake
 
 ---
 
-# YouTube Page Video Remake - Challenge DIO
+# Remake da Página de Vídeo do YouTube – Desafio DIO
 
 Este projeto é um remake da página de um vídeo do YouTube, criado como um desafio pela DIO. O principal objetivo deste projeto foi praticar CSS Flexbox para layout e alinhamento, junto com estrutura semântica em HTML.
 
