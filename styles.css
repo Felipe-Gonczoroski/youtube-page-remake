@@ -271,3 +271,59 @@ button.action {
   margin-top: 0.6rem;
   margin-bottom: 1rem;
 }
+
+.recommended-videos {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 32rem;
+  gap: 1rem;
+  padding: 1.6rem;
+  background-color: #181818;
+  color: #fff;
+}
+
+.recommended-title {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.video-card {
+  display: flex;
+  gap: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 0.8rem;
+  padding: 0.8rem;
+}
+
+.video-card:hover {
+  background-color: #2a2a2a;
+}
+
+.thumbnail {
+  width: 12rem;
+  border-radius: 0.8rem;
+}
+
+.video-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 0.2rem;
+}
+
+.video-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 0;
+  color: #fff;
+}
+
+.channel-name,
+.views {
+  font-size: 0.85rem;
+  color: #aaa;
+  margin: 0.4rem 0 0;
+}
